@@ -1,4 +1,4 @@
 <?php
-echo "Git Repo Test v3";
+echo "Git Repo Test v4";
 phpinfo();
 ?>
